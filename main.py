@@ -1,0 +1,2 @@
+from funciones_main import stark_marvel_desafios_app
+stark_marvel_desafios_app()
